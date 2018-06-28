@@ -1,0 +1,17 @@
+commit e5085092db93c2d04b311d52b15bc9e8b77ddbcc
+Author: PapaEchoTUM <peter.eliseenkov@tum.de>
+Date:   Thu Jun 28 10:11:05 2018 +0200
+
+    reseted and re-added gitignore
+
+commit a3e35931040095b1e411592b265f1e0b2726aafe
+Author: PapaEchoTUM <peter.eliseenkov@tum.de>
+Date:   Thu Jun 28 09:48:51 2018 +0200
+
+    two new file
+
+commit 67524315dcf4a0f1be6b522394d35b8e86399238
+Author: PapaEchoTUM <peter.eliseenkov@tum.de>
+Date:   Thu Jun 28 09:43:35 2018 +0200
+
+    created file
