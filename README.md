@@ -20,3 +20,6 @@ a Block of code, e.h. <html>
 
 this is [a link to google](https://google.com)
  
+### personal info
+
+not much to tell. just doing the excercise
